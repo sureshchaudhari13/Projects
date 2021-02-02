@@ -5,3 +5,7 @@ Using this model, BigMart will try to understand the properties of products and 
 
 Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 * Evaluation Metrics used will be : RMSE
+
+## Dataset & Feature Details :-
+
+![BigMart_Sales_Prediction](https://user-images.githubusercontent.com/60111157/106663123-4aa39b00-65c9-11eb-8b1e-1ad1695b45fc.PNG)
