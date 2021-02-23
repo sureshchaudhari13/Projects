@@ -14,3 +14,17 @@ The dataset consist of four aspects:
     Material Inventory Dataset dimension : (1190966, 10)
 
 
+## Objective 
+#### Geolocation Based Customer Analysis:
+The idea is to explore how various factors like car make & model, time and type of service etc. vary with location. Since the servicing industry is local in nature, this kind of an analysis could possibly render some really interesting business insights. Furthermore, this analysis will enable us to formulate more concrete machine learning problems. 
+From the data at hand it is possible to extract insights about customer behaviour especially the following questions can be addressed.
+
+ * 1.Problem Statement-1 :- Identifying the ownership pattern of cars throughout the country. This also captures the problem wherein information regarding the spending patterns can be identified.
+ * 2.Expected Business Outcome​:​Mahindra First Choice Services will be benefited in           multiple ways. Knowing the ownership pattern targeted marketing campaigns         could be carried out. Knowing the spending patterns services could be suited to             the particular spending pattern.  
+ 
+ 
+
+ 
+ 
+● Problem Statement-2:​Identify the type of order each state receives and present it             as an interactive visualization. ● Expected Business Outcome​: ​This could potentially give information about how          Mahindra First Choice needs to be prepared to tackle various seasonal cases 
+ 
