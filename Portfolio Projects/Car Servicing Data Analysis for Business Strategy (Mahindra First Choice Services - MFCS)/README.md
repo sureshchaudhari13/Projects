@@ -20,7 +20,7 @@ The idea is to explore how various factors like car make & model, time and type 
 From the data at hand it is possible to extract insights about customer behaviour especially the following questions can be addressed.
 
  * 1.Problem Statement-1 :- Identifying the ownership pattern of cars throughout the country. This also captures the problem wherein information regarding the spending patterns can be identified.
- * Expected Business Outcome : Mahindra First Choice Services will be benefited in multiple ways. Knowing the ownership pattern targeted marketing campaigns could be carried out. Knowing the spending patterns services could be suited to the particular spending pattern.  
+   * Expected Business Outcome : Mahindra First Choice Services will be benefited in multiple ways. Knowing the ownership pattern targeted marketing campaigns could be carried out. Knowing the spending patterns services could be suited to the particular spending pattern.  
  
  
 * Problem Statement-2: Identify the type of order each state receives and present it as an interactive visualization.  
