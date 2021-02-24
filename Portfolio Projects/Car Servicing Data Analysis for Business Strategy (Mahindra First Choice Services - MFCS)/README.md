@@ -27,5 +27,5 @@ From the data at hand it is possible to extract insights about customer behaviou
  
  
 ● Problem Statement-2:​Identify the type of order each state receives and present it as an interactive visualization. ● Expected Business Outcome​: 
-​This could potentially give information about how Mahindra First Choice needs to be prepared to tackle various seasonal cases 12345
+​This could potentially give information about how Mahindra First Choice needs to be prepared to tackle various seasonal cases 1234
  
