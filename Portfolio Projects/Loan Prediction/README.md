@@ -21,4 +21,4 @@ Company wants to automate the loan eligibility process (real time) based on cust
 * Loan_Status	 - (Target) Loan approved (Y/N)
 
     #### Evaluation Matric - Accuaracy Score
-1
+
